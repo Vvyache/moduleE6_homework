@@ -13,5 +13,5 @@ CHAT_project
 python manage.py runserver  
 
 Запуск клиента:  
-Открыть в браузере index.html
+Открыть в браузере index.html из папки Frontend_JS
 
